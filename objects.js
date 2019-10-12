@@ -6,5 +6,5 @@ function updatePlaylist(playlist, artistName, songTitle){
  playlist[artistName] = songTitle
 }
 
-delete playlist.artistName
+function 
 
