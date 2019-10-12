@@ -1,1 +1,4 @@
-const playlist = {}; 
+var artist = ""
+var song = ""
+
+const playlist = {artist,song}; 
