@@ -2,4 +2,6 @@ var artist = ""
 var song = ""
 const playlist = {artist,song}; 
 
-function 
+function updatePlaylist(playlist, artistName, songTitle){
+  playlist.push(artistName,songTitle)
+}
